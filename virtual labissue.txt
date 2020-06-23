@@ -1,0 +1,19 @@
+1.Go to the Virtual Labs website and click on IIIT-Hyderabad institute available in the Participating institute in the left corner of the webpage to access the labs to be tested.
+2.Select a lab and start exploring the features of the experiments and the content
+3.While exploring the lab ,you may encounter the issues such as
+   1.Operational defects : Such as broken links, error pages, invisible or incorrect content including English grammar and buttons that not in functioning. The defects that you have observed other than the above listed are also be logged as bugs.
+   2.Simulation defects :
+The simulation that doesnot work as per the given instructions.
+The simulator with no instructions.
+When the output of the simulation is not as per the requirement.
+Logical flaws in the experiment’s simulation.
+Quality of simulator can be improved or enhanced.
+Log as issues in github
+
+1.Type a title and description for your issue and submit it. 
+syntex:Title of the issue should be in the following format. ”<lab_name>_<experiment_name>_<sub section of experiment where the bug is detected>”
+For Example : problem-solving_numerical-representation_objective
+Following information must be given in the issues while raising a bug in Github
+
+Defect description : The description should specify an exact problem in the application.
+Steps to reproduce the issue : A detailed step by step description to be given right from the login step until the bug is identified.
