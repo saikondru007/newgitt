@@ -1,0 +1,15 @@
+list of experiments that are seen in virtual labs are listed below:
+In data strectures i had seen:
+1.quick sort
+2.merge sort
+3.buble sort
+4.DFS
+5.BFS
+In data strectures 2 we have sceen:
+6.selection sort
+7.radix sort
+8.minimum spanning tree
+9.shortest path algo
+10.KMP algorithm
+feedback:these virtual labs are more intresting because
+it is providing more comfortable UI
